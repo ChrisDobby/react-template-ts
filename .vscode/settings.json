@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        ".vscode": true,
+        ".chrome": true,
+        "bin": true,
+        "obj": true,
+        "wwwroot": true
+    },
+    "tslint.enable": true,
+    "files.eol": "\r\n",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true
+}

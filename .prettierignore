@@ -1,0 +1,7 @@
+node_modules
+config
+coverage
+deploy
+dist
+.vscode
+tools
