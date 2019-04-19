@@ -41,7 +41,7 @@ module.exports = {
         new webpack.optimize.OccurrenceOrderPlugin(),
         new webpack.DefinePlugin(GLOBALS),
         new SWPrecacheWebpackPlugin({
-            cacheId: "emis-intelligent-consulting",
+            cacheId: "ts-react-template",
             dontCacheBustUrlsMatching: /\.\w{8}\./,
             filename: "service-worker.js",
             minify: true,

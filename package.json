@@ -1,8 +1,8 @@
 {
-  "name": "consulataion-assistant",
+  "name": "ts-react-template",
   "version": "1.0.0",
   "description": "Dev environment",
-  "author": "EMIS Health",
+  "author": "Chris Dobson",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel open:src typecheck:watch",
